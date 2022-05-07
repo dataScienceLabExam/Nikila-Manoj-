@@ -1,6 +1,6 @@
 package co3;
 import java.util.Scanner;
- class person {
+ public class person {
     String Name;
     String Gender;
     String Address;
@@ -30,7 +30,7 @@ class Employee extends person
  }
 }
 
- public class Teacher2 extends Employee{
+  class Teacher2 extends Employee{
      String Subject;
      String Department;
      String Teacherid;
