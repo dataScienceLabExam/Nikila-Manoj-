@@ -2,13 +2,6 @@ package co3;
 import java.util.Scanner;
 public class shapes {
 	
-
-	    // int a1,b1,c1;
-	    // shapes(int l,int b, int h){
-	    //     a1=l;
-	    //     b1=b;
-	    //     c1=h;
-	    //}
 	    void area(int r1){
 	        double Area_val = 3.14*r1*r1;
 	        System.out.println("\nArea of Circle  = "+Area_val);
