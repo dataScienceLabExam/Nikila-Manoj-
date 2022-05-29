@@ -1,4 +1,5 @@
 package co3;
+
 import java.util.Scanner;
 
 interface prop
