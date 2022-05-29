@@ -1,5 +1,7 @@
 package co3;
+
 import java.util.Scanner;
+
   public class Employee {
     int Empid;
     String Name;
