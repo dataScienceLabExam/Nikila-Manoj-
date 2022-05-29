@@ -14,6 +14,7 @@ import java.util.Scanner;
         this.Address = add;
     }
 }
+
  class Teacher extends Employee{
  String dept;
  String subject;
